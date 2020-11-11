@@ -2,6 +2,8 @@
 
 SIMPLON - Exemple de projet Svelte pour la veille techno
 
+Site exemple: [svelte-exemple-compteur.jallain.vercel.app](https://svelte-exemple-compteur.jallain.vercel.app/)
+
 ## Pour initialiser:
 
 ```bash
